@@ -1,3 +1,3 @@
 <h1>
-Hi There this is the main Folder which contains multiple react folders and projects
+Hi There👋, This is the main Folder which contains multiple react folders and projects
 </h1>
